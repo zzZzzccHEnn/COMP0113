@@ -8,6 +8,8 @@ This is a social VR platform allows multiple users to draw together, they can ha
 
 <img width="800" alt="Screenshot 2023-03-29 131350" src="https://user-images.githubusercontent.com/126675119/229138005-10cd00c9-eb29-4ae7-ba82-8dc7816d086c.png">
 
+<img width="800" alt="Mysecen" src="https://user-images.githubusercontent.com/126675119/229144741-f10bce58-9809-48e0-b974-8a4024316f16.png">
+
 <img width="800" alt="Screenshot 2023-03-29 131810" src="https://user-images.githubusercontent.com/126675119/229139567-8a3c70ef-8611-4a36-bc3d-86b81f21f147.png">
 
 <img width="800" alt="Screenshot 2023-03-29 132056" src="https://user-images.githubusercontent.com/126675119/229139857-af00d45a-b5c7-47b5-9ad9-97cc962a6bd8.png">
