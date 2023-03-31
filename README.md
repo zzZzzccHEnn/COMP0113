@@ -25,5 +25,5 @@ Hardware: Oculus Quest 2 (https://www.meta.com/gb/quest/products/quest-2/), othe
 2. Run 'Ubiq test.exe'
 
 ## Ubiq
-For move information about the Ubiq package, please move to the webside: https://vr.cs.ucl.ac.uk/ubiq/ 
+For more information about the Ubiq package, please move to the webside: https://vr.cs.ucl.ac.uk/ubiq/ 
 
