@@ -17,7 +17,7 @@ This is a social VR platform allows multiple users to draw together, they can ha
 ## Pre-Requisites
 Unity Editor Version: 2021.3.16f1
 
-Hardware: Oculus Quest 2 (https://www.meta.com/gb/quest/products/quest-2/), other commercial VR devices may support as well but not tested yet.
+Hardware: Oculus Quest 2 (https://www.meta.com/gb/quest/products/quest-2/), other commercial VR devices may be supported as well but not tested yet.
 
 ## Installation
 1. Clone the resposibility to the PC
